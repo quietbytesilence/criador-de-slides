@@ -41,6 +41,7 @@ Este é um script Python que converte arquivos de texto (`*.txt`) em apresentaç
 ## Exemplo de Estrutura do Arquivo de Texto
 
 Cada bloco de texto (separado por duas quebras de linha) será convertido em um slide. A primeira linha é o título, e as linhas seguintes são o corpo do slide.
+Dê preferência para utilizar (nas configurações default) no máximo 12 linhas (70 caracteres por linha). Opcionalmente você pode realizar modificações.
 
 Exemplo (`exemplo.txt`):
 ```
@@ -87,31 +88,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
 
----
 
-### Exemplo de Repositório no GitHub
-
-Você pode adicionar essa descrição ao arquivo `README.md` do seu repositório no GitHub. Aqui está um exemplo de como o repositório pode ser estruturado:
-
-```
-gerador-apresentacoes/
-├── script.py                # Script principal
-├── exemplo.txt              # Exemplo de arquivo de texto
-├── README.md                # Descrição do projeto
-├── requirements.txt         # Dependências do projeto
-└── LICENSE                  # Licença do projeto
-```
-
-### Exemplo de `requirements.txt`:
-```
-python-pptx
-```
-
-### Exemplo de `LICENSE` (MIT):
-```plaintext
-MIT License
-
-Copyright (c) 2023 Seu Nome
-
-Permission is hereby granted...
-```

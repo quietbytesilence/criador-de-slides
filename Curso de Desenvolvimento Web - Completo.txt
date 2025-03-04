@@ -1,0 +1,89 @@
+Bloco 1: Introdução ao Desenvolvimento Web
+O desenvolvimento web envolve a criação de sites e aplicações para a internet.
+Ele é dividido em duas áreas principais: front-end e back-end.
+Front-end lida com a interface do usuário e a experiência do cliente.
+Back-end gerencia o servidor, banco de dados e a lógica de negócios.
+Ferramentas comuns incluem HTML, CSS, JavaScript, Node.js e Python.
+Este curso abordará desde o básico até tópicos avançados.
+Vamos explorar frameworks modernos como React e Django.
+Ao final, você estará pronto para criar projetos completos.
+Vamos começar com os fundamentos do HTML e CSS.
+
+
+Bloco 2: Fundamentos de HTML
+HTML (HyperText Markup Language) é a base de qualquer site.
+Ele define a estrutura e o conteúdo da página.
+Elementos comuns incluem <h1>, <p>, <a>, <img> e <div>.
+Atributos como "href" e "src" são usados para adicionar funcionalidades.
+HTML5 introduziu novos elementos como <header>, <footer> e <section>.
+A semântica é importante para acessibilidade e SEO.
+Prática: Crie uma página simples com título, parágrafo e imagem.
+Use o <!DOCTYPE html> para declarar o tipo de documento.
+
+
+Bloco 3: Estilizando com CSS
+CSS (Cascading Style Sheets) é usado para estilizar páginas HTML.
+Ele controla cores, fontes, layouts e animações.
+Seletores como classes (.classe) e IDs (#id) são usados para aplicar estilos.
+Propriedades comuns incluem "color", "font-size", "margin" e "padding".
+CSS3 trouxe recursos como flexbox, grid e animações.
+Media queries permitem designs responsivos para diferentes dispositivos.
+Prática: Estilize uma página HTML com cores e layouts modernos.
+
+
+Bloco 4: Introdução ao JavaScript
+JavaScript é uma linguagem de programação para adicionar interatividade.
+Ele permite manipular o DOM, validar formulários e criar animações.
+Variáveis, funções e loops são conceitos fundamentais.
+Eventos como "click" e "keypress" são usados para interações.
+Frameworks como React e Vue.js simplificam o desenvolvimento.
+Prática: Crie um botão que altera o texto de um elemento ao ser clicado.
+
+
+Bloco 5: Desenvolvimento Front-end com React
+React é uma biblioteca JavaScript para construir interfaces de usuário.
+Ele usa componentes reutilizáveis e um DOM virtual para eficiência.
+JSX permite escrever HTML diretamente no JavaScript.
+O estado (state) e as propriedades (props) são conceitos-chave.
+React Router é usado para criar navegação entre páginas.
+Prática: Crie um aplicativo simples com dois componentes interativos.
+
+
+Bloco 6: Introdução ao Back-end
+O back-end lida com o servidor, banco de dados e lógica de negócios.
+Linguagens comuns incluem Python, JavaScript (Node.js), PHP e Ruby.
+APIs (Application Programming Interfaces) conectam front-end e back-end.
+Frameworks como Django, Express e Laravel aceleram o desenvolvimento.
+Prática: Crie um servidor simples usando Node.js e Express.
+
+
+Bloco 7: Bancos de Dados e SQL
+Bancos de dados armazenam e gerenciam dados para aplicações.
+SQL (Structured Query Language) é usado para consultar e manipular dados.
+Comandos básicos incluem SELECT, INSERT, UPDATE e DELETE.
+Sistemas populares incluem MySQL, PostgreSQL e SQLite.
+Prática: Crie uma tabela e insira dados usando SQL.
+
+
+Bloco 8: Desenvolvimento Back-end com Django
+Django é um framework Python para desenvolvimento web rápido e seguro.
+Ele segue o padrão MVC (Model-View-Controller).
+O ORM (Object-Relational Mapping) simplifica o trabalho com bancos de dados.
+Django Admin fornece uma interface pronta para gerenciamento de dados.
+Prática: Crie um blog simples com Django.
+
+
+Bloco 9: Versionamento com Git
+Git é um sistema de controle de versão para gerenciar código-fonte.
+Comandos básicos incluem git init, git add, git commit e git push.
+Plataformas como GitHub e GitLab facilitam a colaboração em equipe.
+Branches permitem trabalhar em funcionalidades sem afetar o código principal.
+Prática: Crie um repositório e faça seu primeiro commit.
+
+
+Bloco 10: Publicação e Hospedagem
+Publicar um site envolve escolher um serviço de hospedagem.
+Opções populares incluem GitHub Pages, Netlify e Heroku.
+Domínios personalizados podem ser vinculados ao site.
+Certificados SSL garantem conexões seguras (HTTPS).
+Prática: Publique um site estático no GitHub Pages.

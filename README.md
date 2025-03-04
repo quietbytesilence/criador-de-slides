@@ -1,6 +1,7 @@
 # Gerador Automático de Apresentações (PPTX e PDF)
 
 Este é um script Python que converte arquivos de texto (`*.txt`) em apresentações de slides no formato **PPTX** (PowerPoint) e **PDF**, com personalização de estilos, fontes, cores e alinhamentos. O software é ideal para quem deseja automatizar a criação de apresentações a partir de conteúdo textual, como relatórios, resumos ou notas.
+- O Script tem o foco em automatização do processo de criação de páginas de slides, ele cria tudo de forma automática (nada impede que você use a versão gerada pelo programa, mas não é esse o objetivo). Assim você gasta sua energia personalizando e aplicando estilos diretamente na sua engine de apresentações, sem ter que passar minutos ou horas criando páginas, adicionando texto e formatando. Por favor, sinta-se livre para usar e/ou modificar seguindo a licença.
 
 ## Funcionalidades
 

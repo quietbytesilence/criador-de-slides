@@ -88,6 +88,8 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
 
+## Consulte a Wiki do Projeto para mais informações.
+
 Copyright (c) 2025 Gustavo Carneiro
 - Provavelmente não vou mais atualizar isso.
 

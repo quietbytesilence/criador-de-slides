@@ -29,6 +29,7 @@ Este é um script Python que converte arquivos de texto (`*.txt`) em apresentaç
 
 2. **Execução**:
    - Execute o script Python:
+   - Eu prefiro renomear o arquivo, mas vá com a sua preferência.
      ```bash
      python3 script.py
      ```
